@@ -1,2 +1,2 @@
 # git-demo
-# This respository is used to learn git
+This respository is used to learn git
