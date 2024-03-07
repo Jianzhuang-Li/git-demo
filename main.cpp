@@ -1,8 +1,10 @@
-#include <studio.h>
+#include <iostream>
+using namespace std;
 int main(){
-	printf("version 1.0");
-	printf("version 1.1");
-	printf("branch master");
-	printf("hot-fix version 1.2");
-	printf("fix in laboratory");
+	cout << "version 1.0" << endl;
+	cout << "version 1.1" << endl;
+	cout << "branch master" << endl;
+	cout << "hot-fix version 1.2" << endl;
+	cout << "fix in laboratory" << endl;
+	return 0;
 }
